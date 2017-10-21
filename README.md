@@ -8,4 +8,3 @@ Vue.js（读音 /vjuː/，类似于 view 的读音）是一套构建用户界面
 * Vue.js 实例与生命周期
 * Vue.js 组件
 * Vue.js 数据流
-* 
